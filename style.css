@@ -9,6 +9,10 @@ body {
     /* background: url(images/noise.jpg); */
 }
 
+.tab { margin-left: 20px; }
+
+.small { font: 12px Helvetica, Sans-Serif;  }
+
 .clear { 
     clear: both; 
 }
